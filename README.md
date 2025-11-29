@@ -1,2 +1,1 @@
-# daily-journal
-A personal journal for tracking daily activities, reflections, and progress.
+Create initial daily journal README
